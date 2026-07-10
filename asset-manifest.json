@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fast_food/static/css/main.1bb024b1.css",
+    "main.js": "/fast_food/static/js/main.b6794acd.js",
+    "static/js/453.c70de3ec.chunk.js": "/fast_food/static/js/453.c70de3ec.chunk.js",
+    "index.html": "/fast_food/index.html",
+    "main.1bb024b1.css.map": "/fast_food/static/css/main.1bb024b1.css.map",
+    "main.b6794acd.js.map": "/fast_food/static/js/main.b6794acd.js.map",
+    "453.c70de3ec.chunk.js.map": "/fast_food/static/js/453.c70de3ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1bb024b1.css",
+    "static/js/main.b6794acd.js"
+  ]
+}
